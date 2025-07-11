@@ -9,7 +9,7 @@ It extracts, summarizes, and answers questions about PDF contracts — with **ze
 
 - Extracts raw text from legal PDF contracts
 - Summarizes long contracts using `facebook/bart-large-cnn`
-- Answers legal questions (e.g., "What is the termination clause?") using `distilbert-base-cased-distilled-squad`
+- Answers legal questions using `distilbert-base-cased-distilled-squad`
 - Uses LegalBERT for future clause classification or embedding analysis
 - 100% runs locally in Jupyter Notebook, with no paid APIs
 
